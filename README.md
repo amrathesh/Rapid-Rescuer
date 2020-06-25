@@ -13,7 +13,7 @@ Robots can be used in such applications to save lives of people and also provide
  * Sensed values from  IR sensor array and 3 ToF sensors are fed to micro-controller running code which makes it to avoid collisions with walls ,transverse the maze and rescue people from fire-zone and take them to hospital. 
 ### Bot Design and Arena
 
-<img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/bot_v1.jpeg" width="465" height="650"/> <img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/dark_lit.jpg" width="465" height="650"/> 
+<img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/bot_v1.jpeg" width="400" height="650"/> <img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/dark_lit.jpg" width="400" height="650"/> 
 <img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/arena_maze.jpg" width="930" height="600"/>
 
 
