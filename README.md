@@ -1,5 +1,5 @@
 ## Rapid Rescuer
-This repository contains code for Rapid Rescuer Bot using Atmega2560 and ESP8266.which was built for e-Yantra Robotics Challenge 2019-20.
+This repository contains code for Rapid Rescuer Bot using Atmega2560 and ESP8266 built for e-Yantra Robotics Challenge 2019-20.
 ### Theme 
 > Rescue operations pose a grave danger to victim as well as to those assigned the job of saving the lives of victims. Rescuing people in case of fire and explosion in any city-scape comprising numerous buildings is a risky and crucial operation. 
 Robots can be used in such applications to save lives of people and also provide crucial information that can further be used by experts for decision making. The purpose of Rapid Rescuer is to rescue victims from dangerous or unpleasant situations to safer locations. 
