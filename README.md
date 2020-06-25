@@ -6,9 +6,13 @@ Robots can be used in such applications to save lives of people and also provide
 
 ###  Methodology
 * A city is abstracted in form of a maze. 
-* Using image processing shortest path from start to end node is calculated    using Dijkstra's Algorithm.
+* Using image processing shortest path from start to end node is calculated using Dijkstra's Algorithm.
 * Coordinate information is communicated to ESP32 using socket programming. 
 * Using UART communication all useful data received by ESP32 is fed to Atmega2560.
 * Robot gets fire-zone coordinates,number of people to be evacuated ,path to be followed and vacancies in each hospital from base station.
  * Sensed values from  IR sensor array and 3 ToF sensors are fed to micro-controller running code which makes it to avoid collisions with walls ,transverse the maze and rescue people from fire-zone and take them to hospital. 
-###Bot Design and Arena
+### Bot Design and Arena
+<img src="https://raw.githubusercontent.com/amrathesh/Rapid-Rescuer/master/bot_v1.jpeg?token=ALTDEPY3NX7RRF64VZ5RR6S66TOCI" width="465" height="650"/> <img src="https://raw.githubusercontent.com/amrathesh/Rapid-Rescuer/master/dark_lit.jpg?token=ALTDEP3ARWF5YZ6ZUFNAKEC66TP3M" width="465" height="650"/> 
+<img src="https://raw.githubusercontent.com/amrathesh/Rapid-Rescuer/master/arena_maze.jpg?token=ALTDEP2C3BK6UCLWTMLLBJC66TOEW" width="930" height="600"/>
+
+
