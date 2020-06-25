@@ -14,6 +14,6 @@ Robots can be used in such applications to save lives of people and also provide
 ### Bot Design and Arena
 
 <img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/bot_v1.jpeg" width="465" height="650"/> <img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/dark_lit.jpg" width="465" height="650"/> 
-<img src="https://raw.githubusercontent.com/amrathesh/Rapid-Rescuer/master/arena_maze.jpg?token=ALTDEP2C3BK6UCLWTMLLBJC66TOEW" width="930" height="600"/>
+<img src="https://github.com/amrathesh/Rapid-Rescuer/blob/master/arena_maze.jpg" width="930" height="600"/>
 
 
