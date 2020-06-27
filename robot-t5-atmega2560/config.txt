@@ -1,0 +1,2 @@
+WiFi-SSID [bot34]
+WiFi-Pass [bot34pass]
