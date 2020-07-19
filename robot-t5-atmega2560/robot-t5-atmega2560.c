@@ -27,8 +27,8 @@
 #define xshut_1 PA5
 #define xshut_2 PA3
 #define xshut_3 PA1
-
 #define PIN_USER_SW PE7			 // Macro for Pin Number of User Switch
+
 volatile unsigned int count = 0; // Used in ISR of Timer2 to store ms elasped
 unsigned int seconds = 0;		 // Stores seconds elasped
 char rx_byte;
