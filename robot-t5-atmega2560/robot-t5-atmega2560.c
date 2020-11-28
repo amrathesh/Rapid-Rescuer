@@ -10,8 +10,6 @@
 
 #define F_CPU 16000000
 
-#include <avr/io.h>
-#include <util/delay.h>
 #include <avr/io.h>		   // Standard AVR IO Library
 #include <util/delay.h>	// Standard AVR Delay Library
 #include <avr/interrupt.h> // Standard AVR Interrupt Library
